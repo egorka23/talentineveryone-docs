@@ -18,11 +18,10 @@ layout:
 
 # AWARD
 
-#### ⏳ 2. VASILII MASLOV
+#### (0024) RFE Василий Маслов (делал с Натальей)
 
 {% code overflow="wrap" fullWidth="true" expandable="true" %}
 ```
-// File: (0024) RFE Василий Маслов (делал с Натальей)
 // Officer: 0024
 // Date: Feb-2025
 
@@ -36,7 +35,6 @@ CRITERION MET initially, but failed in Final Merits Determination:
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0024) RFE Василий Маслов (делал с Натальей).pdf
 // Officer: 0024
 // Date: Feb-2025
 
@@ -59,11 +57,10 @@ If the petitioner believes that the prizes or awards are nationally or internati
 ```
 {% endcode %}
 
-#### ⏳ 4. TATIANA IVANOVA
+#### (0024) RFE Татьяна Иванова (Фотограф)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0024) RFE Татьяна Иванова (Фотограф).txt
 // Officer: 0024
 // Date: Jan-2024
 
@@ -84,11 +81,10 @@ If the petitioner believes that the prizes or awards are nationally or internati
 ```
 {% endcode %}
 
-#### ⏳ 5. DILFUZA KULDASHEVA
+#### (0034) RFE Дильфуза Кулдашева
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0034) RFE Дильфуза Кулдашева.txt
 // Officer: 0034
 // Date: Sep-2025
 
@@ -108,11 +104,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ⏳ 7. EDUARD GUBEEV
+#### (0034) RFE Эдуард Губеев (с Ирой)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0034) RFE Эдуард Губеев (с Ирой).txt
 // Officer: 0034
 // Date: Feb-2025
 
@@ -138,11 +133,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ❌ 8. TETIANA SHEVCHUK
+#### (0070) Deny Татьяна Шевчук (костюмы по худ гимнаст)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0070) Deny Татьяна Шевчук (костюмы по худ гимнаст).rtf
 // Officer: 0070
 // Date: May-2025
 
@@ -160,11 +154,10 @@ Without additional information to support the national or international recognit
 ```
 {% endcode %}
 
-#### ⏳ 9. ANNA IZMAILOVA
+#### (0070) RFE Анна Измайлова (лошадки)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0070) RFE Анна Измайлова (лошадки).txt
 // Officer: 0070
 // Date: Jul-2025
 
@@ -196,11 +189,10 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### ⏳ 10. MARIIA NIKITINA
+#### (0070) RFE Мария Никитина (Психология)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0070) RFE Мария Никитина (Психология).txt
 // Officer: 0070
 // Date: Jun-2024
 
@@ -237,11 +229,10 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### ⏳ 13. TETIANA SHEVCHUK
+#### (0070) RFE Татьяна Шевчук (дизайнер костюмов для худ гимнастики)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0070) RFE Татьяна Шевчук (дизайнер костюмов для худ гимнастики).pdf
 // Officer: 0070
 // Date: Feb-2025
 
@@ -291,11 +282,10 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### ⏳ 14. ANNA IZMAILOVA
+#### (0070) RFE Анна Измайлова (лошадки)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0070) RFE Анна Измайлова (лошадки)
 // Officer: 0070
 // Date: Jul-2025
 
@@ -331,11 +321,10 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### ❌ 15. VLADISLAV GURABANIDZE
+#### (0102) Deny_Владисла Гурабандзе_IT
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
-// File: (0102) Deny_Владисла Гурабандзе_IT
 // Officer: 0102
 // Date: Jan-2024
 
@@ -349,11 +338,10 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### ⏳ 17. AINUR SEKERBAY
+#### (0150) DENY Ainur Sekerbay (Financial Analyst)
 
 {% code overflow="wrap" %}
 ```
-// File: (0150) DENY Ainur Sekerbay (Financial Analyst).txt
 // Officer: 0150
 // Date: Jun-2025
 
@@ -385,11 +373,10 @@ In response to the RFE, you maintain that receiving the Balashak Scholarship, be
 ```
 {% endcode %}
 
-#### ⏳ 18. AINUR SEKERBAY
+#### (0150) RFE Ainur Sekerbay (Financial Analyst)
 
 {% code overflow="wrap" %}
 ```
-// File: (0150) RFE Ainur Sekerbay (Financial Analyst).txt
 // Officer: 0150
 // Date: Mar-2025
 
@@ -421,11 +408,10 @@ Note: For each prize or award please also submit any of the following:
 
 ***
 
-#### ⏳ 19. VLADISLAV MIKULENKO
+#### (0150) RFE Владислав Микуленко
 
 {% code overflow="wrap" %}
 ```
-// File: (0150) RFE Владислав Микуленко.txt
 // Officer: 0150
 // Date: Dec-2024
 
@@ -440,11 +426,10 @@ Note: For each prize or award please also submit any of the following:
 ```
 {% endcode %}
 
-#### ⏳ 20. ВЛАДИСЛАВ ХАМБИР
+#### (0205) RFE Владислав Хамбир (IT)_Леденева
 
 {% code overflow="wrap" %}
 ```
-// File: (0205) RFE Владислав Хамбир (IT)_Леденева.txt
 // Officer: 0205
 // Date: Jan-2025
 
@@ -466,11 +451,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ❌ 21. ВЛАДИСЛАВ ХАМБИР
+#### (0205) DENY Владислав Хамбир (IT) Леденева
 
 {% code overflow="wrap" %}
 ```
-// File: (0205) DENY Владислав Хамбир (IT) Леденева.txt
 // Officer: 0205
 // Date: Jul-2025
 
@@ -479,11 +463,10 @@ This criterion has not been met because the because the beneficiary's prizes or 
 ```
 {% endcode %}
 
-#### ⏳ 22. ANTON MIALESHKA
+#### (5020) RFE Антон Мялешка (менеджер по строительству)
 
 {% code overflow="wrap" %}
 ```
-// File: (5020) RFE Антон Мялешка (менеджер по строительству).txt
 // Officer: 5020
 // Date: Sep-2025
 
@@ -513,11 +496,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ⏳ 25. ISRAPIL RAMAZANOV
+#### (0034) NOID Исра Рамазанов
 
 {% code overflow="wrap" %}
 ```
-// File: (0034) NOID Исра Рамазанов.txt
 // Officer: 0034
 // Date: Aug-2025
 
@@ -527,11 +509,10 @@ Evidence of the beneficiary's awards, granted in 2022 and 2023, was submitted. T
 ```
 {% endcode %}
 
-#### ⏳ 27. DANIIAL ABDIVALIEV
+#### (1706) RFE Даниял Абдивалиев (шахматы с Балтабек)_обычное рассмотрение
 
 {% code overflow="wrap" %}
 ```
-// File: (1706) RFE Даниял Абдивалиев (шахматы с Балтабек)_обычное рассмотрение.txt
 // Officer: 1706
 // Date: Apr-2025
 
@@ -541,11 +522,10 @@ Based on the plain language this criterion has not been met.
 ```
 {% endcode %}
 
-#### ⏳ 29. IGOR RUDENKO
+#### (0002) Игорь Руденко (IT из Укр)
 
 {% code overflow="wrap" %}
 ```
-// File: (0002) Игорь Руденко (IT из Укр).txt
 // Officer: 0002
 // Date: Sep-2025
 
@@ -580,11 +560,10 @@ Based on the plain language this criterion has not been met.
 ```
 {% endcode %}
 
-#### ❌ 31. ALEKSANDRA ZAKARIAN
+#### (0368) DENY Александра Закарян (маркетинг)
 
 {% code overflow="wrap" %}
 ```
-// File: (0368) DENY Александра Закарян (маркетинг).txt
 // Officer: 0368
 // Date: Sep-2025
 
@@ -592,11 +571,10 @@ Criterion Met. The petitioner sufficiently demonstrated that she received a Pres
 ```
 {% endcode %}
 
-#### ⏳ 35. ALEKSEI ARTEMOV
+#### (1291) RFE Алексей Артемов (IT)
 
 {% code overflow="wrap" %}
 ```
-// File: (1291) RFE Алексей Артемов (IT)
 // Officer: 1291
 // Date: Dec-2024
 
@@ -636,11 +614,10 @@ To demonstrate excellence in the field was the basis for the prizes or awards, t
 ```
 {% endcode %}
 
-#### ⏳ 36. ARMEN TER-MARTIROSYAN
+#### (0024) NOID Армен Тер Мартиросян (инженер)
 
 {% code overflow="wrap" %}
 ```
-// File: (0024) NOID Армен Тер Мартиросян (инженер).txt
 // Officer: 24
 // Date: Sep-2025
 
@@ -648,11 +625,10 @@ Documentation of the alien's receipt of lesser nationally or internationally rec
 ```
 {% endcode %}
 
-#### ❌ 37. TIMUR ISAEV
+#### (0858) Deny Тимур Исаев (жесть а не noid был)
 
 {% code overflow="wrap" %}
 ```
-// File: (0858) Deny Тимур Исаев (жесть а не noid был).txt
 // Officer: 0858
 // Date: Sep-2025
 
@@ -670,11 +646,10 @@ As such, the submitted evidence does not meet the plain language for this criter
 
 
 
-#### ❌ 39. PYLYP OKHONKO
+#### (2254) DENY Филип Охонко (IT с Шамаевым)
 
 {% code overflow="wrap" %}
 ```
-// File: (2254) DENY Филип Охонко (IT с Шамаевым).txt
 // Officer: 2254
 // Date: Oct-2025
 
@@ -697,11 +672,10 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### ⏳ 40. ALEKSANDR VOLKOV
+#### (0205) RFE Александр Волков (Учитель)
 
 {% code overflow="wrap" %}
 ```
-// File: (0205) RFE Александр Волков (Учитель).txt
 // Officer: 0205
 // Date: Mar-2024
 
@@ -740,11 +714,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ⏳ 41. RENAT MANSUROV
+#### (0205) RFE_Ренат Мансуров (муверт)
 
 {% code overflow="wrap" %}
 ```
-// File: (0205) RFE_Ренат Мансуров (муверт).txt
 // Officer: 0205
 // Date: Aug-2023
 
@@ -765,11 +738,10 @@ In addition the beneficiary's prizes or awards appear to be local or regional in
 ```
 {% endcode %}
 
-#### ⏳ 42. EKATERINA VOLOKHOVA
+#### (0242) NOID Екатерина Волохова
 
 {% code overflow="wrap" %}
 ```
-// File: (0242) NOID Екатерина Волохова.txt
 // Officer: 0242
 // Date: Oct-2024
 
@@ -791,11 +763,10 @@ As such, the plain language of this criterion has not been met.
 ```
 {% endcode %}
 
-#### ⏳ 43. ALEKSANDR VOLODKOVICH
+#### (0242) RFE Александр Володкович
 
 {% code overflow="wrap" %}
 ```
-// File: (0242) RFE Александр Володкович.txt
 // Officer: 0242
 // Date: Mar-2025
 
@@ -818,11 +789,10 @@ The petitioner may submit any other information about the prizes or awards that 
 ```
 {% endcode %}
 
-#### ⏳ 44. ARTEM SIUNSKII
+#### (0242) RFE Артем Сюнский (ювелирные изделия)
 
 {% code overflow="wrap" %}
 ```
-// File: (0242) RFE Артем Сюнский (ювелирные изделия).txt
 // Officer: 0242
 // Date: May-2024
 
@@ -848,11 +818,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ⏳ 45. DENIS FILONENKO
+#### (0258) RFE Денис Филоненко (танцы) первая подача
 
 {% code overflow="wrap" %}
 ```
-// File: (0258) RFE Денис Филоненко (танцы) первая подача.txt
 // Officer: 0258
 // Date: Jul-2023
 
@@ -878,11 +847,10 @@ We do not consider such honors to be nationally or internationally recognized pr
 ```
 {% endcode %}
 
-#### ⏳ 46. TIMUR RAKHMATULLIN
+#### (0258) RFE Тимур Рахматулин (Виза Крокит) IT_2024_1
 
 {% code overflow="wrap" %}
 ```
-// File: (0258) RFE Тимур Рахматулин (Виза Крокит) IT_2024_1.txt
 // Officer: 0258
 // Date: May-2024
 
@@ -892,11 +860,10 @@ You have submitted evidence of a 2023 Digital Leaders Award and a 2022 "The Best
 ```
 {% endcode %}
 
-#### ⏳ 47. LILU RAMI LATYSHEVA
+#### (0272) RFE Лилу Рами (2024)_Шафер
 
 {% code overflow="wrap" %}
 ```
-// File: (0272) RFE Лилу Рами (2024)_Шафер.txt
 // Officer: 0272
 // Date: Oct-2024
 
@@ -921,11 +888,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ❌ 48. ALEKSANDR IVANOV
+#### (0318) Deny Александр Иванов (оценщик)
 
 {% code overflow="wrap" %}
 ```
-// File: (0318) Deny Александр Иванов (оценщик).txt
 // Officer: 0318
 // Date: Jan-2025
 
@@ -939,11 +905,10 @@ As such, the plain language of the criterion has not been met.
 ```
 {% endcode %}
 
-#### ⏳ 49. ALEKSANDR IVANOV
+#### (0318) NOID Иванов Александр
 
 {% code overflow="wrap" %}
 ```
-// File: (0318) NOID Иванов Александр.txt
 // Officer: 0318
 // Date: Dec-2024
 
@@ -969,11 +934,10 @@ Also, the submission of national or international media would be helpful in dete
 ```
 {% endcode %}
 
-#### ❌ 50. EVGENIIA ZAEVSKAIA
+#### (0342) Deny Евгения Заевская (3-я попытка)
 
 {% code overflow="wrap" %}
 ```
-// File: (0342) Deny Евгения Заевская (3-я попытка).txt
 // Officer: 0342
 // Date: Apr-2025
 
@@ -985,11 +949,10 @@ The plain language of this criterion has been met.
 ```
 {% endcode %}
 
-#### ❌ 51. IGOR GRETSOV
+#### (0342) Deny Игорь Грецов
 
 {% code overflow="wrap" %}
 ```
-// File: (0342) Deny Игорь Грецов.txt
 // Officer: 0342
 // Date: Dec-2024
 
@@ -1021,11 +984,10 @@ As such, the plain language of the criterion has not been met.
 ```
 {% endcode %}
 
-#### ⏳ 52. EVGENIIA ZAEVSKAIA
+#### (0342) NOID Женя Заевская
 
 {% code overflow="wrap" %}
 ```
-// File: (0342) NOID Женя Заевская.txt
 // Officer: 0342
 // Date: Mar-2025
 
@@ -1051,11 +1013,10 @@ The petitioner may submit any other information about the prizes or awards that 
 ```
 {% endcode %}
 
-#### ⏳ 53. IGOR GRETSOV
+#### (0342) RFE Грецов Игорь
 
 {% code overflow="wrap" %}
 ```
-// File: (0342) RFE Грецов Игорь.txt
 // Officer: 0342
 // Date: Sep-2024
 
@@ -1083,11 +1044,10 @@ The petitioner may submit any other information about the prizes or awards that 
 ```
 {% endcode %}
 
-#### ⏳ 54. PAVEL SANAEV
+#### (0342) RFE Павел Санаев
 
 {% code overflow="wrap" %}
 ```
-// File: (0342) RFE Павел Санаев.txt
 // Officer: 0342
 // Date: Dec-2022
 
@@ -1126,11 +1086,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ⏳ 55. DINARA SERIKOVA
+#### (0368) Динара Серикова (Вано)
 
 {% code overflow="wrap" %}
 ```
-// File: (0368) Динара Серикова (Вано).txt
 // Officer: 0368
 // Date: Feb-2025
 
@@ -1153,11 +1112,10 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### ⏳ 56. ANASTASIA VAVINA
+#### (0368) RFE Анастасия Вавина
 
 {% code overflow="wrap" %}
 ```
-// File: (0368) RFE Анастасия Вавина.txt
 // Officer: 0368
 // Date: Aug-2023
 
@@ -1203,11 +1161,10 @@ Public announcement regarding the awarding of the prizes or awards issued by the
 ```
 {% endcode %}
 
-#### ⏳ 57. ANNA KRASOVITSKAIA
+#### (0389) RFE Анна Красовицкая
 
 {% code overflow="wrap" %}
 ```
-// File: (0389) RFE Анна Красовицкая.txt
 // Officer: 0389
 // Date: Jul-2024
 
@@ -1279,11 +1236,10 @@ Public announcement regarding the awarding of the prizes or awards issued by the
 ```
 {% endcode %}
 
-#### ⏳ 58. MYROSLAV DUZINKEVYCH
+#### (0318) RFE Мирослав Дузинкевич
 
 {% code overflow="wrap" %}
 ```
-// File: (0318) RFE Мирослав Дузинкевич.rtf
 // Officer: 318
 // Date: Jun-2020
 
@@ -1305,11 +1261,10 @@ To establish that these prizes or awards are nationally or internationally recog
 ```
 {% endcode %}
 
-#### ❌ 59. MYROSLAV DUZINKEVYCH
+#### (0318) Deny Мирослав Дузинкевич (художник) Аристова (2020 год)
 
 {% code overflow="wrap" %}
 ```
-// File: (0318) Deny Мирослав Дузинкевич (художник) Аристова (2020 год).pdf
 // Officer: 0318
 // Date: Dec-2020
 
@@ -1349,11 +1304,10 @@ As such, you did not provide sufficient evidence to meet the plain language of t
 ```
 {% endcode %}
 
-#### ⏳ 60. INNA KARMAZ
+#### (2254) RFE Инна Картмаз
 
 {% code overflow="wrap" %}
 ```
-// File: (2254) RFE Инна Картмаз.pdf
 // Officer: 2254
 // Date: Aug-2025
 
@@ -1382,11 +1336,10 @@ This criterion has not been met because the evidence is not sufficient to establ
 ```
 {% endcode %}
 
-#### ⏳ 61. EKATERINA OVERINA
+#### (2106) RFE Екатерина Аверина (графический дизайн)
 
 {% code overflow="wrap" %}
 ```
-// File: (2106) RFE Екатерина Аверина (графический дизайн).txt
 // Officer: 2106
 // Date: Jul-2025
 
@@ -1416,11 +1369,10 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### ❌ 62. EKATERINA OVERINA
+#### (2106) DENY Екатерина Аверина (графический дизайн)
 
 {% code overflow="wrap" %}
 ```
-// File: (2106) DENY Екатерина Аверина (графический дизайн).txt
 // Officer: 2106
 // Date: Oct-2025
 
@@ -1444,11 +1396,10 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### ⏳ 63. KSENIIA MAIOROVA
+#### (1728) NOID Ксения Майорова (Аронова) 2 подача
 
 {% code overflow="wrap" %}
 ```
-// File: (1728) NOID Ксения Майорова (Аронова) 2 подача.pdf
 // Officer: 1728
 // Date: 2025-09-25
 
@@ -1487,11 +1438,10 @@ The petitioner submitted a list of "Winners in the 2025 Stevie Awards for Techno
 ```
 {% endcode %}
 
-#### ❌ 64. ANNA IZMAILOVA
+#### (0070) Deny Анна Измайлова (лошадки)
 
 {% code overflow="wrap" %}
 ```
-// File: (0070) Deny Анна Измайлова (лошадки).txt
 // Officer: 0070
 // Date: Oct-2025
 
@@ -1513,11 +1463,10 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### ⏳ 68. BULAT SABALAKOV
+#### (1884) RFE Булат Сабалаков (бизнес менеджмент)
 
 {% code overflow="wrap" %}
 ```
-// File: (1884) RFE Булат Сабалаков (бизнес менеджмент).txt
 // Officer: 1884
 // Date: Jul-2025
 
@@ -1551,11 +1500,10 @@ Moreover, the certificates provided were awarded based on completing training. T
 
 ***
 
-#### ❌ 69. BULAT SABALAKOV
+#### (1884) Deny Булат Сабалаков (бизнес менеджмент)
 
 {% code overflow="wrap" %}
 ```
-// File: (1884) Deny Булат Сабалаков (бизнес менеджмент).rtf
 // Officer: 1884
 // Date: Oct-2025
 
@@ -1589,11 +1537,10 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### ⏳ 70. BULAT SABALAKOV
+#### (1884) RFE Булат Сабалаков (бизнес менеджмент)
 
 {% code overflow="wrap" %}
 ```
-// File: (1884) RFE Булат Сабалаков (бизнес менеджмент).pdf
 // Officer: 1884
 // Date: Jul-2025
 
@@ -1624,7 +1571,6 @@ Moreover, the certificates provided were awarded based on completing training. T
 
 {% code overflow="wrap" %}
 ```
-// File: (N:A) Deny Вера Маслова (стоматолог).pd
 // Officer: 0036
 // Date: Oct-2025
 
@@ -1650,11 +1596,10 @@ You submitted evidence that you have received academic awards. However, academic
 ```
 {% endcode %}
 
-#### ❌ 75. KATERYNA KOSTRIKOVA
+#### (2534) Deny Елена Кострикова (пилон)
 
 {% code overflow="wrap" %}
 ```
-// File: (2534) Deny Елена Кострикова (пилон).pdf
 // Officer: 2534
 // Date: Nov-2025
 
@@ -1692,11 +1637,10 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### ❌ 76. DARIA DAVYDOVA
+#### (2212) DENY Дарья Давыдова (маркетинг в фильмах) copy.txt
 
 {% code overflow="wrap" %}
 ```
-// File: (2212)  DENY Дарья Давыдова (маркетинг в фильмах) copy.txt.pdf
 // Officer: 2212
 // Date: Nov-2025
 
@@ -1708,11 +1652,10 @@ Because USCIS already determined the petitioner submitted insufficient evidence 
 
 ***
 
-#### ⏳ 77. NURKAMILA AKISHEVA
+#### (2115) RFE Камила Акишева (финансист из США)
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
-// File: (2115) RFE Камила Акишева (финансист из США).pdf
 // Officer: 2115
 // Date: Jun-2025
 
@@ -1742,11 +1685,10 @@ The petitioner may submit any other information about the prizes or awards that 
 
 ***
 
-#### ❌ 78. NURKAMILA AKISHEVA
+#### (2115) Deny Камила Акишева (финансист из США)
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
-// File: (2115) Deny Камила Акишева (финансист из США).pdf
 // Officer: 2115
 // Date: Sep-2025
 
@@ -1768,11 +1710,10 @@ The record contains evidence of the awards or prizes in the field. The evidence 
 
 ***
 
-#### ⏳ 79. NURKAMILA AKISHEVA
+#### (2263) RFE Камила Акишева (финансист из США)_вторая подача
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
-// File: (2263) RFE Камила Акишева (финансист из США)_вторая подача.pdf
 // Officer: 2263
 // Date: Oct-2025
 
@@ -1830,11 +1771,10 @@ To demonstrate excellence in the field was the basis for the prizes or awards, t
 
 ***
 
-#### ⏳ 80. OLEG EKHLAKOV
+#### (0592) RFE Олег Ехлахов (IT с Шамаевым)
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
-// File: (0592) RFE Олег Ехлахов (IT с Шамаевым).pdf
 // Officer: 0592
 // Date: Oct-2025
 
