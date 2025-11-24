@@ -1878,63 +1878,22 @@ If the petitioner believes that the prizes or awards are nationally or internati
 
 The criteria used to give the prizes or awards. 
 
-
 Information on the reputation of the organization granting the prizes or awards. 
-
-
 Documentary evidence demonstrating: 
-
-
 The significance of the prizes or awards, to include the national or international recognition the prizes or awards share; 
-
-
-
-
 The reputation of the organization granting the prizes or awards; 
-
-
-
-
 Who is considered for the prizes or awards, including the geographic scope for which candidates may apply; 
-
-
-
-
 How many prizes or awards are awarded each year; 
-
-
-
-
-Previous winners who enjoy national or international acclaim; and
-
-, 
-
-
-
-
-Documentary evidence establishing how the award(s) was/were given for excellence in the beneficiarys field. 
-
-
-
-Please highlight any part of the documentation which relates to the criteria of excellence, the award's significance in the beneficiarys field, application process, number of prizes granted and how often, and national recognition of the award itself. 
+Previous winners who enjoy national or international acclaim; and, 
+Documentary evidence establishing how the award(s) was/were given for excellence in the beneficiarys field. Please highlight any part of the documentation which relates to the criteria of excellence, the award's significance in the beneficiarys field, application process, number of prizes granted and how often, and national recognition of the award itself. 
 
 Note: For any prize or award submitted, please also provide: 
-
 A copy of each prize or award certificate; or 
-
-
 A clear photograph of each prize or award; or 
-
-
 Public announcement regarding the awarding of the prizes or awards issued by the granting organization. 
-
-
-
 Public announcement regarding the awarding of the prizes or awards issued by the grantingDocumentation of the beneficiarys membership in associations in the field for which classification is sought. The association must require outstanding achievements of their members, as judged by recognized national or international experts in their disciplines or fields. 
-USCIS Policy Manual, Volume 6, Part F, Chapter 2 states:
 
- 
+USCIS Policy Manual, Volume 6, Part F, Chapter 2 states:
 USCIS determines if the association for which the person claims present or past membership requires t
 ```
 {% endcode %}
-
