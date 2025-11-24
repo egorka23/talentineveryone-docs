@@ -18,7 +18,7 @@ layout:
 
 # AWARD
 
-#### (0024) RFE Василий Маслов (делал с Натальей)
+### (0024) RFE Василий Маслов (делал с Натальей)
 
 {% code overflow="wrap" fullWidth="true" expandable="true" %}
 ```
@@ -57,7 +57,7 @@ If the petitioner believes that the prizes or awards are nationally or internati
 ```
 {% endcode %}
 
-#### (0024) RFE Татьяна Иванова (Фотограф)
+### (0024) RFE Татьяна Иванова (Фотограф)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -81,7 +81,7 @@ If the petitioner believes that the prizes or awards are nationally or internati
 ```
 {% endcode %}
 
-#### (0034) RFE Дильфуза Кулдашева
+### (0034) RFE Дильфуза Кулдашева
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -104,7 +104,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0034) RFE Эдуард Губеев (с Ирой)
+### (0034) RFE Эдуард Губеев (с Ирой)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -133,7 +133,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0070) Deny Татьяна Шевчук (костюмы по худ гимнаст)
+### (0070) Deny Татьяна Шевчук (костюмы по худ гимнаст)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -154,7 +154,7 @@ Without additional information to support the national or international recognit
 ```
 {% endcode %}
 
-#### (0070) RFE Анна Измайлова (лошадки)
+### (0070) RFE Анна Измайлова (лошадки)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -189,7 +189,7 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### (0070) RFE Мария Никитина (Психология)
+### (0070) RFE Мария Никитина (Психология)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -229,7 +229,7 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### (0070) RFE Татьяна Шевчук (дизайнер костюмов для худ гимнастики)
+### (0070) RFE Татьяна Шевчук (дизайнер костюмов для худ гимнастики)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -282,7 +282,7 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### (0070) RFE Анна Измайлова (лошадки)
+### (0070) RFE Анна Измайлова (лошадки)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -321,7 +321,7 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-#### (0102) Deny_Владисла Гурабандзе_IT
+### (0102) Deny_Владисла Гурабандзе_IT
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -338,7 +338,7 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### (0150) DENY Ainur Sekerbay (Financial Analyst)
+### (0150) DENY Ainur Sekerbay (Financial Analyst)
 
 {% code overflow="wrap" %}
 ```
@@ -373,7 +373,7 @@ In response to the RFE, you maintain that receiving the Balashak Scholarship, be
 ```
 {% endcode %}
 
-#### (0150) RFE Ainur Sekerbay (Financial Analyst)
+### (0150) RFE Ainur Sekerbay (Financial Analyst)
 
 {% code overflow="wrap" %}
 ```
@@ -408,7 +408,7 @@ Note: For each prize or award please also submit any of the following:
 
 ***
 
-#### (0150) RFE Владислав Микуленко
+### (0150) RFE Владислав Микуленко
 
 {% code overflow="wrap" %}
 ```
@@ -426,7 +426,7 @@ Note: For each prize or award please also submit any of the following:
 ```
 {% endcode %}
 
-#### (0205) RFE Владислав Хамбир (IT)_Леденева
+### (0205) RFE Владислав Хамбир (IT)_Леденева
 
 {% code overflow="wrap" %}
 ```
@@ -451,7 +451,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0205) DENY Владислав Хамбир (IT) Леденева
+### (0205) DENY Владислав Хамбир (IT) Леденева
 
 {% code overflow="wrap" %}
 ```
@@ -463,7 +463,7 @@ This criterion has not been met because the because the beneficiary's prizes or 
 ```
 {% endcode %}
 
-#### (5020) RFE Антон Мялешка (менеджер по строительству)
+### (5020) RFE Антон Мялешка (менеджер по строительству)
 
 {% code overflow="wrap" %}
 ```
@@ -496,7 +496,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0034) NOID Исра Рамазанов
+### (0034) NOID Исра Рамазанов
 
 {% code overflow="wrap" %}
 ```
@@ -509,7 +509,7 @@ Evidence of the beneficiary's awards, granted in 2022 and 2023, was submitted. T
 ```
 {% endcode %}
 
-#### (1706) RFE Даниял Абдивалиев (шахматы с Балтабек)_обычное рассмотрение
+### (1706) RFE Даниял Абдивалиев (шахматы с Балтабек)_обычное рассмотрение
 
 {% code overflow="wrap" %}
 ```
@@ -522,7 +522,7 @@ Based on the plain language this criterion has not been met.
 ```
 {% endcode %}
 
-#### (0002) Игорь Руденко (IT из Укр)
+### (0002) Игорь Руденко (IT из Укр)
 
 {% code overflow="wrap" %}
 ```
@@ -560,7 +560,7 @@ Based on the plain language this criterion has not been met.
 ```
 {% endcode %}
 
-#### (0368) DENY Александра Закарян (маркетинг)
+### (0368) DENY Александра Закарян (маркетинг)
 
 {% code overflow="wrap" %}
 ```
@@ -571,7 +571,7 @@ Criterion Met. The petitioner sufficiently demonstrated that she received a Pres
 ```
 {% endcode %}
 
-#### (1291) RFE Алексей Артемов (IT)
+### (1291) RFE Алексей Артемов (IT)
 
 {% code overflow="wrap" %}
 ```
@@ -614,7 +614,7 @@ To demonstrate excellence in the field was the basis for the prizes or awards, t
 ```
 {% endcode %}
 
-#### (0024) NOID Армен Тер Мартиросян (инженер)
+### (0024) NOID Армен Тер Мартиросян (инженер)
 
 {% code overflow="wrap" %}
 ```
@@ -625,7 +625,7 @@ Documentation of the alien's receipt of lesser nationally or internationally rec
 ```
 {% endcode %}
 
-#### (0858) Deny Тимур Исаев (жесть а не noid был)
+### (0858) Deny Тимур Исаев (жесть а не noid был)
 
 {% code overflow="wrap" %}
 ```
@@ -646,7 +646,7 @@ As such, the submitted evidence does not meet the plain language for this criter
 
 
 
-#### (2254) DENY Филип Охонко (IT с Шамаевым)
+### (2254) DENY Филип Охонко (IT с Шамаевым)
 
 {% code overflow="wrap" %}
 ```
@@ -672,7 +672,7 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### (0205) RFE Александр Волков (Учитель)
+### (0205) RFE Александр Волков (Учитель)
 
 {% code overflow="wrap" %}
 ```
@@ -714,7 +714,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0205) RFE_Ренат Мансуров (муверт)
+### (0205) RFE_Ренат Мансуров (муверт)
 
 {% code overflow="wrap" %}
 ```
@@ -738,7 +738,7 @@ In addition the beneficiary's prizes or awards appear to be local or regional in
 ```
 {% endcode %}
 
-#### (0242) NOID Екатерина Волохова
+### (0242) NOID Екатерина Волохова
 
 {% code overflow="wrap" %}
 ```
@@ -763,7 +763,7 @@ As such, the plain language of this criterion has not been met.
 ```
 {% endcode %}
 
-#### (0242) RFE Александр Володкович
+### (0242) RFE Александр Володкович
 
 {% code overflow="wrap" %}
 ```
@@ -789,7 +789,7 @@ The petitioner may submit any other information about the prizes or awards that 
 ```
 {% endcode %}
 
-#### (0242) RFE Артем Сюнский (ювелирные изделия)
+### (0242) RFE Артем Сюнский (ювелирные изделия)
 
 {% code overflow="wrap" %}
 ```
@@ -818,7 +818,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0258) RFE Денис Филоненко (танцы) первая подача
+### (0258) RFE Денис Филоненко (танцы) первая подача
 
 {% code overflow="wrap" %}
 ```
@@ -847,7 +847,7 @@ We do not consider such honors to be nationally or internationally recognized pr
 ```
 {% endcode %}
 
-#### (0258) RFE Тимур Рахматулин (Виза Крокит) IT_2024_1
+### (0258) RFE Тимур Рахматулин (Виза Крокит) IT_2024_1
 
 {% code overflow="wrap" %}
 ```
@@ -860,7 +860,7 @@ You have submitted evidence of a 2023 Digital Leaders Award and a 2022 "The Best
 ```
 {% endcode %}
 
-#### (0272) RFE Лилу Рами (2024)_Шафер
+### (0272) RFE Лилу Рами (2024)_Шафер
 
 {% code overflow="wrap" %}
 ```
@@ -888,7 +888,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0318) Deny Александр Иванов (оценщик)
+### (0318) Deny Александр Иванов (оценщик)
 
 {% code overflow="wrap" %}
 ```
@@ -905,7 +905,7 @@ As such, the plain language of the criterion has not been met.
 ```
 {% endcode %}
 
-#### (0318) NOID Иванов Александр
+### (0318) NOID Иванов Александр
 
 {% code overflow="wrap" %}
 ```
@@ -934,7 +934,7 @@ Also, the submission of national or international media would be helpful in dete
 ```
 {% endcode %}
 
-#### (0342) Deny Евгения Заевская (3-я попытка)
+### (0342) Deny Евгения Заевская (3-я попытка)
 
 {% code overflow="wrap" %}
 ```
@@ -949,7 +949,7 @@ The plain language of this criterion has been met.
 ```
 {% endcode %}
 
-#### (0342) Deny Игорь Грецов
+### (0342) Deny Игорь Грецов
 
 {% code overflow="wrap" %}
 ```
@@ -984,7 +984,7 @@ As such, the plain language of the criterion has not been met.
 ```
 {% endcode %}
 
-#### (0342) NOID Женя Заевская
+### (0342) NOID Женя Заевская
 
 {% code overflow="wrap" %}
 ```
@@ -1013,7 +1013,7 @@ The petitioner may submit any other information about the prizes or awards that 
 ```
 {% endcode %}
 
-#### (0342) RFE Грецов Игорь
+### (0342) RFE Грецов Игорь
 
 {% code overflow="wrap" %}
 ```
@@ -1044,7 +1044,7 @@ The petitioner may submit any other information about the prizes or awards that 
 ```
 {% endcode %}
 
-#### (0342) RFE Павел Санаев
+### (0342) RFE Павел Санаев
 
 {% code overflow="wrap" %}
 ```
@@ -1086,7 +1086,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0368) Динара Серикова (Вано)
+### (0368) Динара Серикова (Вано)
 
 {% code overflow="wrap" %}
 ```
@@ -1112,7 +1112,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-#### (0368) RFE Анастасия Вавина
+### (0368) RFE Анастасия Вавина
 
 {% code overflow="wrap" %}
 ```
@@ -1161,7 +1161,7 @@ Public announcement regarding the awarding of the prizes or awards issued by the
 ```
 {% endcode %}
 
-#### (0389) RFE Анна Красовицкая
+### (0389) RFE Анна Красовицкая
 
 {% code overflow="wrap" %}
 ```
@@ -1236,7 +1236,7 @@ Public announcement regarding the awarding of the prizes or awards issued by the
 ```
 {% endcode %}
 
-#### (0318) RFE Мирослав Дузинкевич
+### (0318) RFE Мирослав Дузинкевич
 
 {% code overflow="wrap" %}
 ```
@@ -1261,7 +1261,7 @@ To establish that these prizes or awards are nationally or internationally recog
 ```
 {% endcode %}
 
-#### (0318) Deny Мирослав Дузинкевич (художник) Аристова (2020 год)
+### (0318) Deny Мирослав Дузинкевич (художник) Аристова (2020 год)
 
 {% code overflow="wrap" %}
 ```
@@ -1304,7 +1304,7 @@ As such, you did not provide sufficient evidence to meet the plain language of t
 ```
 {% endcode %}
 
-#### (2254) RFE Инна Картмаз
+### (2254) RFE Инна Картмаз
 
 {% code overflow="wrap" %}
 ```
@@ -1336,7 +1336,7 @@ This criterion has not been met because the evidence is not sufficient to establ
 ```
 {% endcode %}
 
-#### (2106) RFE Екатерина Аверина (графический дизайн)
+### (2106) RFE Екатерина Аверина (графический дизайн)
 
 {% code overflow="wrap" %}
 ```
@@ -1369,7 +1369,7 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### (2106) DENY Екатерина Аверина (графический дизайн)
+### (2106) DENY Екатерина Аверина (графический дизайн)
 
 {% code overflow="wrap" %}
 ```
@@ -1396,7 +1396,7 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### (1728) NOID Ксения Майорова (Аронова) 2 подача
+### (1728) NOID Ксения Майорова (Аронова) 2 подача
 
 {% code overflow="wrap" %}
 ```
@@ -1438,7 +1438,7 @@ The petitioner submitted a list of "Winners in the 2025 Stevie Awards for Techno
 ```
 {% endcode %}
 
-#### (0070) Deny Анна Измайлова (лошадки)
+### (0070) Deny Анна Измайлова (лошадки)
 
 {% code overflow="wrap" %}
 ```
@@ -1463,7 +1463,7 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### (1884) RFE Булат Сабалаков (бизнес менеджмент)
+### (1884) RFE Булат Сабалаков (бизнес менеджмент)
 
 {% code overflow="wrap" %}
 ```
@@ -1500,7 +1500,7 @@ Moreover, the certificates provided were awarded based on completing training. T
 
 ***
 
-#### (1884) Deny Булат Сабалаков (бизнес менеджмент)
+### (1884) Deny Булат Сабалаков (бизнес менеджмент)
 
 {% code overflow="wrap" %}
 ```
@@ -1537,7 +1537,7 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### (1884) RFE Булат Сабалаков (бизнес менеджмент)
+### (1884) RFE Булат Сабалаков (бизнес менеджмент)
 
 {% code overflow="wrap" %}
 ```
@@ -1567,7 +1567,7 @@ Moreover, the certificates provided were awarded based on completing training. T
 ```
 {% endcode %}
 
-#### ❌ 71. VERA MASLOVA
+### ❌ 71. VERA MASLOVA
 
 {% code overflow="wrap" %}
 ```
@@ -1596,7 +1596,7 @@ You submitted evidence that you have received academic awards. However, academic
 ```
 {% endcode %}
 
-#### (2534) Deny Елена Кострикова (пилон)
+### (2534) Deny Елена Кострикова (пилон)
 
 {% code overflow="wrap" %}
 ```
@@ -1637,7 +1637,7 @@ As such, the submitted evidence does not meet this criterion.
 ```
 {% endcode %}
 
-#### (2212) DENY Дарья Давыдова (маркетинг в фильмах) copy.txt
+### (2212) DENY Дарья Давыдова (маркетинг в фильмах) copy.txt
 
 {% code overflow="wrap" %}
 ```
@@ -1652,7 +1652,7 @@ Because USCIS already determined the petitioner submitted insufficient evidence 
 
 ***
 
-#### (2115) RFE Камила Акишева (финансист из США)
+### (2115) RFE Камила Акишева (финансист из США)
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
@@ -1685,7 +1685,7 @@ The petitioner may submit any other information about the prizes or awards that 
 
 ***
 
-#### (2115) Deny Камила Акишева (финансист из США)
+### (2115) Deny Камила Акишева (финансист из США)
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
@@ -1710,7 +1710,7 @@ The record contains evidence of the awards or prizes in the field. The evidence 
 
 ***
 
-#### (2263) RFE Камила Акишева (финансист из США)_вторая подача
+### (2263) RFE Камила Акишева (финансист из США)_вторая подача
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
@@ -1771,7 +1771,7 @@ To demonstrate excellence in the field was the basis for the prizes or awards, t
 
 ***
 
-#### (0592) RFE Олег Ехлахов (IT с Шамаевым)
+### (0592) RFE Олег Ехлахов (IT с Шамаевым)
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```
