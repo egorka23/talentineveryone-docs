@@ -18,7 +18,7 @@ layout:
 
 # AWARD
 
-### (0024) RFE Василий Маслов (делал с Натальей)
+(0024) RFE Василий Маслов (делал с Натальей)
 
 {% code overflow="wrap" fullWidth="true" expandable="true" %}
 ```
@@ -321,7 +321,7 @@ Note: For any prize or award submitted, also provide:
 ```
 {% endcode %}
 
-### (0102) Deny_Владисла Гурабандзе_IT
+### (0102) Deny\_Владисла Гурабандзе\_IT
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
@@ -426,7 +426,7 @@ Note: For each prize or award please also submit any of the following:
 ```
 {% endcode %}
 
-### (0205) RFE Владислав Хамбир (IT)_Леденева
+### (0205) RFE Владислав Хамбир (IT)\_Леденева
 
 {% code overflow="wrap" %}
 ```
@@ -509,7 +509,7 @@ Evidence of the beneficiary's awards, granted in 2022 and 2023, was submitted. T
 ```
 {% endcode %}
 
-### (1706) RFE Даниял Абдивалиев (шахматы с Балтабек)_обычное рассмотрение
+### (1706) RFE Даниял Абдивалиев (шахматы с Балтабек)\_обычное рассмотрение
 
 {% code overflow="wrap" %}
 ```
@@ -557,17 +557,6 @@ To assist in determining that the prizes or awards satisfy this criterion, the p
   - Previous winners who are related to the beneficiary's field.
 
 Based on the plain language this criterion has not been met.
-```
-{% endcode %}
-
-### (0368) DENY Александра Закарян (маркетинг)
-
-{% code overflow="wrap" %}
-```
-// Officer: 0368
-// Date: Sep-2025
-
-Criterion Met. The petitioner sufficiently demonstrated that she received a Presidential commemorative medal and diploma for her "significant contribution to the preparation and holding of the XXII Olympic Winter Games in Sochi" from the President of the Russian Federation on July 29, 2014. You also submitted sufficient evidence to demonstrate that your contributions led to the Luxury Mountain Hotel Award awarded to your employer, Rixos Krasnaya Polyana Sochi, in 2018 from the World Luxury Hotel Awards. The evidence demonstrates that these are nationally or internationally recognized awards.
 ```
 {% endcode %}
 
@@ -644,8 +633,6 @@ As such, the submitted evidence does not meet the plain language for this criter
 ```
 {% endcode %}
 
-
-
 ### (2254) DENY Филип Охонко (IT с Шамаевым)
 
 {% code overflow="wrap" %}
@@ -714,7 +701,7 @@ Note: For any prize or award submitted, please also provide:
 ```
 {% endcode %}
 
-### (0205) RFE_Ренат Мансуров (муверт)
+### (0205) RFE\_Ренат Мансуров (муверт)
 
 {% code overflow="wrap" %}
 ```
@@ -847,7 +834,7 @@ We do not consider such honors to be nationally or internationally recognized pr
 ```
 {% endcode %}
 
-### (0258) RFE Тимур Рахматулин (Виза Крокит) IT_2024_1
+### (0258) RFE Тимур Рахматулин (Виза Крокит) IT\_2024\_1
 
 {% code overflow="wrap" %}
 ```
@@ -860,7 +847,7 @@ You have submitted evidence of a 2023 Digital Leaders Award and a 2022 "The Best
 ```
 {% endcode %}
 
-### (0272) RFE Лилу Рами (2024)_Шафер
+### (0272) RFE Лилу Рами (2024)\_Шафер
 
 {% code overflow="wrap" %}
 ```
@@ -1130,33 +1117,20 @@ The submitted evidence about the awards is insufficient to establish that the aw
 If you believe you are the recipient of any prizes or awards that are nationally or internationally recognized prizes or awards for excellence in the field, you may submit:
 
 The criteria used to give the prizes or awards.
-
 Information on the reputation of the organization granting the prizes or awards.
-
 Documentary evidence demonstrating:
-
 The significance of the prizes or awards, to include the national or international recognition the prizes or awards share;
-
 The reputation of the organization granting the prizes or awards;
-
 Who is considered for the prizes or awards, including the geographic scope for which candidates may apply;
-
 How many prizes or awards are awarded each year;
-
 Media coverage of the awards;
-
 Previous winners who enjoy national or international acclaim; and,
-
 Documentary evidence establishing how the award(s) was/were given for excellence in your field.
-
 The petitioner may submit any other information about the prizes or awards that would help establish that the prizes or awards should be considered as nationally or internationally recognized prizes or awards for excellence in the field of endeavor.
 
 Note: For any prize or award submitted, please also provide:
-
 A copy of each prize or award certificate; or
-
 A clear photograph of each prize or award; or
-
 Public announcement regarding the awarding of the prizes or awards issued by the granting organization.
 ```
 {% endcode %}
@@ -1348,9 +1322,7 @@ Documentation of the beneficiary's receipt of lesser nationally or international
 The petitioner indicates she has received the following awards:
 
 • 3 International Architecture & Design Awards (IADA);
-
 • 1st place ARTDOM Talents 2025; and
-
 • Conference participation.
 
 The plain language of this criterion requires evidence (1) of the beneficiary's receipt of a prize or award, (2) that the prize or award is in beneficiary's field, (3) that the prize or award is recognized nationally or internationally, and (4) that the award or prize is for excellence in the field of endeavor. The petitioner must satisfy all of these elements to meet the plain language requirements of this criterion.
@@ -1475,11 +1447,8 @@ Documentation of the beneficiary's receipt of lesser nationally or international
 Criterion Not Met
 
 You have provided:
-
 • Detailed Statement;
-
 • 2 Letters of Gratitude;
-
 • 3 Certificates.
 
 The letters of gratitude highlight participation in helping with the organization and promotion of Digital Astana 2024 International Forum. However, the evidence submitted does not sufficiently demonstrate that the prize(s) or award(s) claimed under 8 C.F.R. § 204.5(h)(3)(i) are nationally or internationally recognized. Pursuant to USCIS regulations, the petitioner must provide documentation showing that the award has a significant reputation beyond a local or regional scope and is acknowledged within the beneficiary's field on a national or international level. The current record lacks objective evidence, such as media coverage, statements from awarding organizations, or other documentation, to establish the award's prominence or its recognition within the field. Please submit additional evidence, such as:
@@ -1497,8 +1466,6 @@ Moreover, the certificates provided were awarded based on completing training. T
 • expert letters explaining how the award reflects excellence in the beneficiary's area of expertise.
 ```
 {% endcode %}
-
-***
 
 ### (1884) Deny Булат Сабалаков (бизнес менеджмент)
 
@@ -1567,7 +1534,7 @@ Moreover, the certificates provided were awarded based on completing training. T
 ```
 {% endcode %}
 
-### ❌ 71. VERA MASLOVA
+### (n:a) RFE Вера Маслова (стоматолог)
 
 {% code overflow="wrap" %}
 ```
@@ -1650,11 +1617,9 @@ Because USCIS already determined the petitioner submitted insufficient evidence 
 ```
 {% endcode %}
 
-***
-
 ### (2115) RFE Камила Акишева (финансист из США)
 
-{% code overflow="wrap" lineNumbers="true" %}
+{% code overflow="wrap" %}
 ```
 // Officer: 2115
 // Date: Jun-2025
@@ -1683,11 +1648,9 @@ The petitioner may submit any other information about the prizes or awards that 
 ```
 {% endcode %}
 
-***
-
 ### (2115) Deny Камила Акишева (финансист из США)
 
-{% code overflow="wrap" lineNumbers="true" %}
+{% code overflow="wrap" %}
 ```
 // Officer: 2115
 // Date: Sep-2025
@@ -1708,11 +1671,9 @@ The record contains evidence of the awards or prizes in the field. The evidence 
 ```
 {% endcode %}
 
-***
+### (2263) RFE Камила Акишева (финансист из США)\_вторая подача
 
-### (2263) RFE Камила Акишева (финансист из США)_вторая подача
-
-{% code overflow="wrap" lineNumbers="true" %}
+{% code overflow="wrap" %}
 ```
 // Officer: 2263
 // Date: Oct-2025
@@ -1773,129 +1734,57 @@ To demonstrate excellence in the field was the basis for the prizes or awards, t
 
 ### (0592) RFE Олег Ехлахов (IT с Шамаевым)
 
-{% code overflow="wrap" lineNumbers="true" %}
+{% code overflow="wrap" %}
 ```
 // Officer: 0592
 // Date: Oct-2025
 
-(i) Documentation of the self-petitioner's receipt of lesser nationally or internationaUy
-recognized prizes or awards for excellence in the field of endeavor.
+(i) Documentation of the self-petitioner's receipt of lesser nationally or internationally recognized prizes or awards for excellence in the field of endeavor.
 
 The criterion is not met.
-The plain language of this criterion requires evidence ( 1) that you be the recipient of any prizes or
-awards; and (2) that the prize or award be nationally or internationally recognized for excellence in the
-field of endeavor.
+The plain language of this criterion requires evidence (1) that you be the recipient of any prizes or awards; and (2) that the prize or award be nationally or internationally recognized for excellence in the field of endeavor.
 USCIS Policy Manual: Volume 6, Part F, Chapter 2 expresses:
 
-• First, USCIS determines if the person was the recipient of prizes or awards. Nothing precludes
-the person from relying on a team award, provided the person is one of the recipients of the
-award. The description of this type of evidence in the regulation indicates that the focus should
-be on the person's receipt of the awards or prizes, as opposed to the employer's receipt of the
-awards or prizes.
-• Second, USCIS determines whether the award is a lesser nationally or internationally
-recognized prize or award which the person received for excellence in the field of endeavor.
-Considerations: relevant considerations regarding whether the basis for granting the prizes or
-awards was excellence in the field include, but are not limited to: the criteria used to grant the
-awards or prizes; the national or international significance of the awards or prizes in the field;
-the number of awardees or prize recipients; and limitations on competitors.
-Similarly, national or international recognition is most often associated with awards given to
-individuals at the highest level in a given field.
-You provided evidence that you received first place in the Top 5 Best Reports delivered within the
-PHP Russia 2024 section. However, you did not provide sufficient evidence to demonstrate that the
-award was given in the highest level of the field and was nationally or internationally recognized for
-excellence in the field of endeavor. For example, you provided evidence from the awarding entity such
-as letters, general provisions, and printouts from its website. However, you did not provide sufficient
-independent and objective evidence to demonstrate that you received the award, that the award
-had garnered national or international media coverage that would verify the award, that the award was
-given at the highest level of the field, and was nationally or internationally recognized for
-excellence in the field of endeavor. In addition, while the supporting evidence may reflect institutional
-
-recognition, it does not reflect national or international recognition for excellence in the field. The
-evidence of record does not demonstrate that the awards were/are recognized beyond the institution on
-a national or international level.
-Furthermore, you did not submit "ordinary legible photocopies of all original documentary evidence,
-reflecting their original size from the original source. For example, you provided evidence that
-includes digitized material, possibly scanned, and some altered. Digital, self-made copies of
-documentation that include altered material or information pasted (text, pictures, etc.) into your own
-self-created document will not be given probative value. Furthermore, with respect to documents from
-the Internet, you must submit webpage screen shots (including the URL address and page number on
-each page) as they would appear on the original source's website. You submitted webpage screen
-shots not as they appear (did not include the URL address and page number on each page) on the
-original source's website. Instead, you submitted self-made documentation either missing the URL
-address and/or the page number on each page, rather than providing the online webpages from the
-original source with the original URL address and page numbers on each page. Furthermore, it appears
-you submitted self-made documentation where you pasted specific portions of information (text,
-pictures, etc.) from the original webpage (articles or information). This undermines the credibility of
-this documentation because it did not originate from the original source. Moreover, documents from
-the Internet, screen shots of website publications should show the full URL address and include page
-numbers from the original source. This allows for source identification, verification of the information
-provided, and to determine whether the screen shot is complete and accurate. Internet webpage screen
-shots lacking an URL address and page numbers from the original source are of little probative value
-as the statements or assertions contained therein cannot be corroborated, nor can we verify the screen
-shot is complete. Therefore, webpage screen shots from the internet lacking the original URL
-addresses and page numbers from the original source are of little probative value and will not be
-considered. This material is not reliable documentation, nor does it comply with the regulatory
-requirements at 8 C.F.R. § 103.2(b)(3). Eligibility is to be determined not by the quantity of the filings
-alone but by their quality.Chawathe, 25 I&N Dec. at 376 (citing Matter ofE-M-, 20 I&N Dec. 77, 80
-(Comm'r 1989)). We "examine each piece of evidence for relevance, probative value, and credibility,
-both individually and within the context of the totality of the evidence." Id.
+- First, USCIS determines if the person was the recipient of prizes or awards. Nothing precludes the person from relying on a team award, provided the person is one of the recipients of the award. The description of this type of evidence in the regulation indicates that the focus should be on the person's receipt of the awards or prizes, as opposed to the employer's receipt of the awards or prizes.
+- Second, USCIS determines whether the award is a lesser nationally or internationally recognized prize or award which the person received for excellence in the field of endeavor.
+Considerations: relevant considerations regarding whether the basis for granting the prizes or awards was excellence in the field include, but are not limited to: the criteria used to grant the awards or prizes; the national or international significance of the awards or prizes in the field; the number of awardees or prize recipients; and limitations on competitors.
+Similarly, national or international recognition is most often associated with awards given to individuals at the highest level in a given field.
+You provided evidence that you received first place in the Top 5 Best Reports delivered within the PHP Russia 2024 section. However, you did not provide sufficient evidence to demonstrate that the award was given in the highest level of the field and was nationally or internationally recognized for excellence in the field of endeavor. For example, you provided evidence from the awarding entity such as letters, general provisions, and printouts from its website. However, you did not provide sufficient independent and objective evidence to demonstrate that you received the award, that the award had garnered national or international media coverage that would verify the award, that the award was given at the highest level of the field, and was nationally or internationally recognized for excellence in the field of endeavor. In addition, while the supporting evidence may reflect institutional recognition, it does not reflect national or international recognition for excellence in the field. The evidence of record does not demonstrate that the awards were/are recognized beyond the institution on a national or international level.
+Furthermore, you did not submit "ordinary legible photocopies of all original documentary evidence, reflecting their original size from the original source. For example, you provided evidence that includes digitized material, possibly scanned, and some altered. Digital, self-made copies of documentation that include altered material or information pasted (text, pictures, etc.) into your own self-created document will not be given probative value. Furthermore, with respect to documents from the Internet, you must submit webpage screen shots (including the URL address and page number on each page) as they would appear on the original source's website. You submitted webpage screen shots not as they appear (did not include the URL address and page number on each page) on the original source's website. Instead, you submitted self-made documentation either missing the URL address and/or the page number on each page, rather than providing the online webpages from the original source with the original URL address and page numbers on each page. Furthermore, it appears you submitted self-made documentation where you pasted specific portions of information (text, pictures, etc.) from the original webpage (articles or information). This undermines the credibility of this documentation because it did not originate from the original source. Moreover, documents from the Internet, screen shots of website publications should show the full URL address and include page numbers from the original source. This allows for source identification, verification of the information provided, and to determine whether the screen shot is complete and accurate. Internet webpage screen shots lacking an URL address and page numbers from the original source are of little probative value as the statements or assertions contained therein cannot be corroborated, nor can we verify the screen shot is complete. Therefore, webpage screen shots from the internet lacking the original URL addresses and page numbers from the original source are of little probative value and will not be considered. This material is not reliable documentation, nor does it comply with the regulatory requirements at 8 C.F.R. § 103.2(b)(3). Eligibility is to be determined not by the quantity of the filings alone but by their quality.Chawathe, 25 I&N Dec. at 376 (citing Matter of E-M-, 20 I&N Dec. 77, 80 (Comm'r 1989)). We "examine each piece of evidence for relevance, probative value, and credibility, both individually and within the context of the totality of the evidence." Id.
 To assist in determining that the prizes or awards satisfy this criterion, the petitioner may submit:
-• Documentary evidence of national or international prizes or awards received that were granted
-for excellence in the beneficiary's field.
-• Documentary evidence establishing what the criterion was for winning the prizes or awards.
-• Documentary evidence describing how the prizes or awards relate to the beneficiary's field.
-• Documentary evidence of the following:
+- Documentary evidence of national or international prizes or awards received that were granted for excellence in the beneficiary's field.
+- Documentary evidence establishing what the criterion was for winning the prizes or awards.
+- Documentary evidence describing how the prizes or awards relate to the beneficiary's field.
+- Documentary evidence of the following:
 o The significance of the prizes or awards;
 o Who is considered for the prizes or awards;
 o How many prizes or awards are given each year; and
-
 o Previous winners who are related to the beneficiary's field.
 Note: For any prize or award submitted, please also provide:
-• A copy of each prize or award certificate; or
-• A clear photograph of each prize or award; or
-
-• Public announcement regarding the awarding of the prizes or awards issued by the granting
-organization.
-To show that they are nationally or internationally recognized prizes or awards for excellence in the
-field, the petitioner may submit:
-• Documentary evidence demonstrating the following:
+- A copy of each prize or award certificate; or
+- A clear photograph of each prize or award; or
+- Public announcement regarding the awarding of the prizes or awards issued by the granting organization.
+To show that they are nationally or internationally recognized prizes or awards for excellence in the field, the petitioner may submit:
+- Documentary evidence demonstrating the following:
 o The criteria used to grant the prizes or awards;
-o The significance of the prizes or awards, to include the national or international
-
-recognition that the prizes or awards share;
+o The significance of the prizes or awards, to include the national or international recognition that the prizes or awards share;
 o The reputation of the organization or panel granting the prizes or awards;
-o Who is considered for the prizes or awards, including the geographic scope for which
-
-candidates may apply;
+o Who is considered for the prizes or awards, including the geographic scope for which candidates may apply;
 o How many prizes or awards are awarded each year; and,
 o Previous winners of the award.
-
-If the petitioner believes that the prizes or awards are nationally or internationally recognized prizes or
-awards for excellence in the field, the petitioner may submit:
-• The criteria used to give the prizes or awards.
-• Information on the reputation of the organization granting the prizes or awards.
-• Documentary evidence demonstrating:
-o The significance of the prizes or awards, to include the national or international
-recognition the prizes or awards share;
+If the petitioner believes that the prizes or awards are nationally or internationally recognized prizes or awards for excellence in the field, the petitioner may submit:
+- The criteria used to give the prizes or awards.
+- Information on the reputation of the organization granting the prizes or awards.
+- Documentary evidence demonstrating:
+o The significance of the prizes or awards, to include the national or international recognition the prizes or awards share;
 o The reputation of the organization granting the prizes or awards;
-
-o Who is considered for the prizes or awards, including the geographic scope for which
-candidates may apply;
+o Who is considered for the prizes or awards, including the geographic scope for which candidates may apply;
 o How many prizes or awards are awarded each year;
-
 o Previous winners who enjoy national or international acclaim; and,
-
-• Documentary evidence establishing how the award(s) was/were given for excellence in the
-beneficiary's field.
-The petitioner may submit any other information about the prizes or awards that would help establish
-that the prizes or awards should be considered as nationally or internationally recognized prizes or
-awards for excellence in the field of endeavor.
-To demonstrate excellence in the field was the basis for the prizes or awards, the petitioner may
-submit:
-• Documentary evidence describing how the prizes or awards relate to excellence in the
-beneficiary's field.
-• Documentary evidence of the criteria used to grant the prizes or awards, including evidence that
-a criterion for winning the prizes or awards was excellence in the field.
+- Documentary evidence establishing how the award(s) was/were given for excellence in the beneficiary's field.
+The petitioner may submit any other information about the prizes or awards that would help establish that the prizes or awards should be considered as nationally or internationally recognized prizes or awards for excellence in the field of endeavor.
+To demonstrate excellence in the field was the basis for the prizes or awards, the petitioner may submit:
+- Documentary evidence describing how the prizes or awards relate to excellence in the beneficiary's field.
+- Documentary evidence of the criteria used to grant the prizes or awards, including evidence that a criterion for winning the prizes or awards was excellence in the field.
 ```
 {% endcode %}
-
