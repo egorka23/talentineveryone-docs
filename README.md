@@ -31,7 +31,7 @@ CRITERION MET initially, but failed in Final Merits Determination:
 ```
 {% endcode %}
 
-### ⏳ 3. VASILII MASLOV
+### (0024) RFE Василий Маслов (делал с Натальей)
 
 {% code overflow="wrap" fullWidth="true" %}
 ```
