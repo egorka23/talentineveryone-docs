@@ -1865,3 +1865,161 @@ A clear photograph of each prize or award; or
 Public announcement regarding the awarding of the prizes or awards issued by the granting organization.
 ```
 {% endcode %}
+
+### (0389) DENY Yulia Argunova
+
+{% code overflow="wrap" fullWidth="true" %}
+```
+// Officer: 0389
+// Date: Aug-2025
+
+The record shows that the petitioner was awarded the Independent National Competition Psychology Viktor Frankl Project of the Year in Psychology award. Although the record contains some information about the award issuing entities, it lacks sufficient independent and probative evidence confirming the award that the petitioner received enjoy national or international recognition for excellence in the field. There is no evidence showing the level of recognition attributable to these achievements and therefore that they are nationally or internationally recognized. The record did not include evidence establishing that the field as a whole considers the event or organization is prestigious. As such, the petitioner has not met the plain language of this criterion. 
+If the petitioner believes that the prizes or awards are nationally or internationally recognized prizes or awards for excellence in the field, the petitioner may submit: 
+
+The criteria used to give the prizes or awards. 
+
+
+Information on the reputation of the organization granting the prizes or awards. 
+
+
+Documentary evidence demonstrating: 
+
+
+The significance of the prizes or awards, to include the national or international recognition the prizes or awards share; 
+
+
+
+
+The reputation of the organization granting the prizes or awards; 
+
+
+
+
+Who is considered for the prizes or awards, including the geographic scope for which candidates may apply; 
+
+
+
+
+How many prizes or awards are awarded each year; 
+
+
+
+
+Previous winners who enjoy national or international acclaim; and
+
+, 
+
+
+
+
+Documentary evidence establishing how the award(s) was/were given for excellence in the beneficiarys field. 
+
+
+
+Please highlight any part of the documentation which relates to the criteria of excellence, the award's significance in the beneficiarys field, application process, number of prizes granted and how often, and national recognition of the award itself. 
+
+Note: For any prize or award submitted, please also provide: 
+
+A copy of each prize or award certificate; or 
+
+
+A clear photograph of each prize or award; or 
+
+
+Public announcement regarding the awarding of the prizes or awards issued by the granting organization. 
+
+
+
+Public announcement regarding the awarding of the prizes or awards issued by the grantingDocumentation of the beneficiarys membership in associations in the field for which classification is sought. The association must require outstanding achievements of their members, as judged by recognized national or international experts in their disciplines or fields. 
+USCIS Policy Manual, Volume 6, Part F, Chapter 2 states:
+
+ 
+USCIS determines if the association for which the person claims present or past membership requires that members have outstanding achievements in the field as judged by recognized experts in that field. 
+
+Examples of associations in the field requiring outstanding achievement of their members may include, but are not limited to: 
+
+A membership in certain professional associations; and 
+
+
+
+
+A fellowship with certain organizations or institutions. 
+
+
+Considerations:
+
+ 
+The petitioner must show that membership in the association requires outstanding achievements in the field for which classification is sought, as judged by recognized national or international experts. 
+
+Associations may have multiple levels of membership. The level of membership afforded to the person must show that in order to obtain that level of membership, recognized national or international experts judged the person as having attained outstanding achievements in the field for which classification is sought. 
+As a possible example, general membership in an international organization for engineering and technology professionals may not meet the requirements of the criterion. However, if that same organization at the fellow level requires, in part, that a nominee have accomplishments that have, for example, contributed importantly to the advancement or application of engineering, science, and technology, and that a council of experts and a committee of current fellows judges the nominations for fellows, that higher, fellow level may be qualifying. 
+
+Another possible qualifying example may include membership as a fellow in a scientific society dedicated to artificial intelligence if the membership is based on recognition of a nominees significant, sustained contributions to the field of artificial intelligence, and a panel of current fellows makes the selection of new fellows. 
+
+Relevant factors that may lead to a conclusion that the person's membership in the association(s) was not based on outstanding achievements in the field include, but are not limited to, instances where the person's membership was based solely on the following factors (by themselves or in the aggregate): 
+
+A level of education or years of experience in a particular field; 
+
+
+
+
+The payment of a fee or by subscribing to an association's publications; and 
+
+
+
+
+A requirement, compulsory or otherwise, for employment in certain occupations, as commonly seen with union membership or guild affiliation for actors.Evidence submitted in support of this criterion includes: 
+
+National Association of Neuropsychologists Certificate; 
+
+
+
+Statute; and 
+
+Regulations. 
+
+
+The petitioner submitted evidence that she is a member of the National Association of Neuropsychologists, but no evidence that the associations require outstanding achievements of their members as judged by recognized national or international experts in their disciplines or fields. Requirements that only include employment or activity in a given field; minimum education, experience, or achievement; recommendations by colleagues or current members; or payment of dues do not satisfy this criterion since these requirements do not constitute outstanding achievements. As such, the plain language of this criterion has not been met. 
+To assist in determining that the beneficiarys memberships satisfy this criterion, the petitioner may submit: 
+
+Information to establish that the individuals who review prospective members applications are recognized as national or international experts in their disciplines or fields. 
+
+
+The section of the associations constitution or bylaws which discuss the qualifications required of the reviewers on the review panel of the association. 
+
+
+
+Published material about the beneficiary in professional or major trade publications or other major media. The materials must relate to the beneficiarys work in the field for which classification is sought. 
+USCIS Policy Manual, Volume 6, Part F, Chapter 2 states:
+
+ 
+First, USCIS determines whether the published material was related to the person and the person's specific work in the field for which classification is sought. 
+
+Examples of qualifying media may include, but are not limited to: 
+
+Professional or major print publications (newspaper articles, popular and academic journal articles, books, textbooks, or similar publications) regarding the person and the persons work; 
+
+
+
+
+Professional or major online publications regarding the person and the persons work; and 
+
+
+
+
+Transcripts of professional or major audio or video coverage of the person and the persons work. 
+
+
+Considerations:
+
+ 
+The published material should be about the person, relating to the persons work in the field, and not just about the persons employer and the employers work or about another organization and that organizations work. Marketing materials created for the purpose of selling the person's products or promoting the persons services are not generally considered to be published material about the person (this includes seemingly objective content about the person in major print publications that the person or the persons employer paid for). 
+
+However, the person and the persons work need not be the only subject of the material; published material that covers a broader topic but includes a substantial discussion of thepersons work in the field and mentions the person in connection to the work may be considered material about the person relating to the persons work. 
+
+Moreover, officers may consider material that focuses solely or primarily on work or research being undertaken by a team of which the person is a member, provided that the material mentions the person in connection with the work or other evidence in the record documents the persons significant role in the work or research. 
+
+Evidence may include documentation such as print or online newspaper or magazine articles, popular or academic journal articles, books, textbooks, similar publications, or a transcript o
+```
+{% endcode %}
+
